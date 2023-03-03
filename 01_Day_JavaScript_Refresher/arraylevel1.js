@@ -1,5 +1,5 @@
  export const emptyArray = []
-const array = [5,'heritage',34,'ololade',78]
+const array = [6,'heritage',34,'ololade',78]
 console.log(array.length)
 console.log(array[0],array[2],array[array.length -1])
 const mixedDataTypes = [5, "heritage", { name: herit }, "ololade", 78];
