@@ -1,5 +1,5 @@
 // exercice number 2
-let text = "I love teaching and empowering people I teach HTML CSS JS React Python";
+let text = "I love teaching and empowering people I teach HTML CSS JS React Python.";
 const array = text.split(" ");
 console.log(array.length);
 // exercice number 3
